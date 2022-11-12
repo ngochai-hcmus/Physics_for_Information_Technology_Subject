@@ -1,4 +1,0 @@
-- Nội dung: 
-
-+ Thiết kế mạch điện và lập trình điều khiển đèn led.
-+ Đèn Orange: 8s; Đèn White: 4s; Đèn Blue: 10s

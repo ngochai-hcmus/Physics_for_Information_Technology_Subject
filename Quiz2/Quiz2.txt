@@ -1,0 +1,9 @@
+- Bật tắt đèn LED theo điều kiện ánh sáng
+
+- Ngưỡng giá trị xác định sáng tối là 500: 
+
++ Nếu cường độ ánh sáng từ quang trở < 500 thì trời tối => bật đèn
+
++ Ngược lại thì trời sáng => tắt đèn
+
+- Giá trị điện trở lắp cùng quang trở là 1000 Ohm

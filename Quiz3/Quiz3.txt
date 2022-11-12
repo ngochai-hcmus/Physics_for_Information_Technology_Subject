@@ -1,0 +1,1 @@
+- Đọc và hiển thị giá trị nhiệt độ lên màn hình LCD
